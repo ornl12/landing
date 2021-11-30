@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Faster+One&family=Girassol&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Faster One', cursive;
+	font-size: 18px;
+	margin: 0px;
+	background-color: rgb(247, 247, 247);
+}
+h1, h2, h3 {
+	font-family: 'Girassol', cursive;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
+
